@@ -39,8 +39,8 @@ Away from the keyboard
 Central defender on the football pitch, several sessions a week.
 Stargazing: I hunt for dark-sky spots using light pollution maps, and Siwa Oasis is high on the list.
 Reach me
-💼 LinkedIn: linkedin.com/in/YOUR-USERNAME
-📧 Email: your.email@example.com
+💼 LinkedIn: [linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/khalid-yahya-5a61a6352/)
+📧 Email: khaldi1991x2006@example.com
 📍 Cairo, Egypt
 
 Happy to talk about SOC work, blue team learning paths, or anything security-related. If you're working through Security+ or BTL1 too, say hi.
