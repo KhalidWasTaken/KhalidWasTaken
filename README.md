@@ -9,7 +9,8 @@ SOC home lab: a multi-VM setup with Wazuh as the SIEM, running on VMware. I'm pl
 Certifications: Security+ (SY0-701) first, then BTL1, then CySA+.
 TryHackMe: working through the SOC Level 1 path.
 Coursework that overlaps with all of this: malware analysis (FLARE-VM), network analysis (Wireshark), and professional training in cybersecurity.
-Projects
+
+---Projects---
 🫁 LungVision
 
 Lung cancer histopathology classifier built for my CAI3101 course. It compares a custom CNN, ResNet50, Naive Bayes, a Decision Tree, and an MLP, and uses Grad-CAM so you can see what the model is actually looking at. Deployed with Streamlit.
@@ -39,8 +40,8 @@ Away from the keyboard
 Central defender on the football pitch, several sessions a week.
 Stargazing: I hunt for dark-sky spots using light pollution maps, and Siwa Oasis is high on the list.
 Reach me
-💼 LinkedIn: [linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/khalid-yahya-5a61a6352/)
-📧 Email: khaldi1991x2006@example.com
+💼 LinkedIn: https://www.linkedin.com/in/khalid-yahya-5a61a6352/
+📧 Email: khaldi1991x2006@gmail.com
 📍 Cairo, Egypt
 
 Happy to talk about SOC work, blue team learning paths, or anything security-related. If you're working through Security+ or BTL1 too, say hi.
